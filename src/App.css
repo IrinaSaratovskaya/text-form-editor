@@ -1,0 +1,120 @@
+.navbar {
+    background: #e6e6e6;
+    height: 60px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.main {
+    padding-top: 60px;
+}
+
+.main .row {
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
+
+.form-group {
+    background: #ececec;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.form-group label {
+    font-weight: 500;
+}
+
+.label-wrapper {
+    padding: 2px 3px 8px;
+}
+
+.label-wrapper i {
+    color: #aaa;
+}
+
+.label-wrapper i:hover {
+    color: black;
+}
+
+.bm-menu {
+    background: white;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+.bm-item {
+    margin-bottom: 10px;
+}
+
+.bm-burger-button {
+    display: none;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+.fs16 {
+    font-size: 16px;
+}
+
+.fs18 {
+    font-size: 18px;
+}
+
+.fs20 {
+    font-size: 20px;
+}
+
+.icon {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.text-red,
+.text-red .label-wrapper i:hover {
+    color: #ff0000;
+}
+
+.text-orange,
+.text-orange .label-wrapper i:hover {
+    color: #ff8900;
+}
+
+.text-yellow,
+.text-yellow .label-wrapper i:hover {
+    color: #d2c205;
+}
+
+.text-green,
+.text-green .label-wrapper i:hover {
+    color: #1ca039;
+}
+
+.text-blue,
+.text-blue .label-wrapper i:hover {
+    color: #0090ff;
+}
+
+.bg-red {
+    background: #ffb3ba;
+}
+
+.bg-orange {
+    background: #ffdfba;
+}
+
+.bg-yellow {
+    background: #ffffba;
+}
+
+.bg-green {
+    background: #baffc9;
+}
+
+.bg-blue {
+    background: #bae1ff;
+}
